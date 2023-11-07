@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1699366136 source:f:\embedded c sessions\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FunctionPrototypes.h"
+
+1699364691 source:f:\embedded c sessions\project\sdb.c
+	<stdio.h>
+	"STD.h"
+	"SDB.h"
+
+1698850402 f:\embedded c sessions\project\std.h
+
+1699365055 source:f:\embedded c sessions\project\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+
+1699365955 f:\embedded c sessions\project\sdb.h
+	"STD.h"
+
+1699366096 f:\embedded c sessions\project\functionprototypes.h
+	"STD.h"
+
