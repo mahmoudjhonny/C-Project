@@ -104,6 +104,7 @@ bool SDB_ReadEntry(uint32 id) {
 // This function return the list of id's based on count that point to number of students value
 void SDB_GetList(uint8* count, uint32* list) {
     *count = num_student;
+    printf("the Count of Student is %u\n", *count);
     if(num_student > 0) {
         printf("List of Student IDs:\n");
         for (int i = 0; i < *count; i++) {
