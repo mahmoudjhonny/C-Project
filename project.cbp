@@ -31,6 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="FunctionPrototypes.h" />
 		<Unit filename="SDB.c">
 			<Option compilerVar="CC" />
 		</Unit>

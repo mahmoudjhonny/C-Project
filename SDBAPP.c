@@ -11,7 +11,6 @@ void SDB_action(uint8 choice) {
                 SDB_AddEntry();
                 break;
             }
-
         case 2:
             {
                 int used_size = SDB_GetUsedSize();

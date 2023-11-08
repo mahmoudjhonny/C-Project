@@ -12,6 +12,7 @@ typedef struct SimpleDb
  uint32 Course2_grade;
  uint32 Course3_ID;
  uint32 Course3_grade;
+ struct SimpleDb* next;
 } studentDB;
 
 #endif // SDB_H_INCLUDED
